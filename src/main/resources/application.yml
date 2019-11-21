@@ -33,4 +33,4 @@ spring:
      config:
        server:
            native:
-              searchLocations: file:///C:\java\repositorio\NetflixConfiguration\src\main\resources\config\
+              searchLocations: file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/chamadotecnico, file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/filafilme, file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/historico, file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/ranking, file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/usuario, file:///C:/java/repositorio/NetflixConfiguration/src/main/resources/config/filme
